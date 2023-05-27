@@ -1,14 +1,14 @@
 # LFT-AC-Analysis
 https://lookingfortokens.com/
 
-This is a static analysis of the new anti cheat that has recently been created by Looking For Tokens (LFT).
+- This is a static analysis of the new anti cheat that has recently been created by Looking For Tokens (LFT).
 
-This will go through some of their useless anti - tamper measurements, and their attempts at making a heuristic based anti cheat. 
+- This will go through some of their useless anti - tamper measurements, and their attempts at making a heuristic based anti cheat. 
 
-This reversal was only done using Scylla and IDA 8.2 Freeware.
+- This reversal was only done using Scylla and IDA 8.2 Freeware.
 
 
-Links to reversing tools :
+## Links to reversing tools :
 
 https://hex-rays.com/ida-free/
 
